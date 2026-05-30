@@ -1,0 +1,342 @@
+{
+  "/Users/michael/Desktop/b-siri/skills-lock.json": {
+    "mtime": 1779641241.6002474,
+    "ast_hash": "acd03765a30aae01be33669953edcc2f",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.claude/settings.json": {
+    "mtime": 1779816841.7385063,
+    "ast_hash": "87f0d903477984d0587a02f8fe185263",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/B_SiriApp.swift": {
+    "mtime": 1779641839.26202,
+    "ast_hash": "7a733cce5e31e6b51d88f95865475991",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/ContentView.swift": {
+    "mtime": 1779641839.275604,
+    "ast_hash": "77734e55616d318e5953410fe3730ea4",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/Assets.xcassets/Contents.json": {
+    "mtime": 1779641839.2785258,
+    "ast_hash": "9deb2ada1cc834bbebf8bbad9c8978a1",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/Assets.xcassets/AppIcon.appiconset/Contents.json": {
+    "mtime": 1779641839.968438,
+    "ast_hash": "312293803cc066cebe794885fe1ddcfe",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/Assets.xcassets/AccentColor.colorset/Contents.json": {
+    "mtime": 1779641839.277702,
+    "ast_hash": "55019f7265dde0a78318b0807f98e847",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/MCP_ROUTING.md": {
+    "mtime": 1779651406.2874556,
+    "ast_hash": "7776319af65428c229cfefae12e93807",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/REQUIREMENTS.md": {
+    "mtime": 1779650453.7507868,
+    "ast_hash": "e6b68046d0a02937616e0adfd3b26bfd",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri Technical Specification.md": {
+    "mtime": 1779641027.1211863,
+    "ast_hash": "0bc303de6cf470db942368bdb3313f04",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/ARCHITECTURAL_CONSTRAINTS.md": {
+    "mtime": 1779650971.347224,
+    "ast_hash": "fd562a8b06b2c6ef446955da8c21ecc0",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/SECURITY_POLICY.md": {
+    "mtime": 1779650774.591871,
+    "ast_hash": "d333b1b11aa45da1135b77e55b303541",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/CLAUDE.md": {
+    "mtime": 1779816841.7383747,
+    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/workflows/graphify.md": {
+    "mtime": 1779816869.8053758,
+    "ast_hash": "afa1ffc01aa56ac681c7335686f44767",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/rules/graphify.md": {
+    "mtime": 1779816869.8052216,
+    "ast_hash": "f1e53ecc9194573d3c28fc116c743a2e",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/find-skills/SKILL.md": {
+    "mtime": 1779641241.5970294,
+    "ast_hash": "efcaee1dd97ebac4f2f4071585cff6b5",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/SKILL.md": {
+    "mtime": 1779641223.672746,
+    "ast_hash": "95918fec418f29df3b608e1acb3098d9",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/coding-best-practices/swift-language.md": {
+    "mtime": 1779641223.6749606,
+    "ast_hash": "2d800847db5013d9138fddb8022e4718",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/coding-best-practices/data-persistence.md": {
+    "mtime": 1779641223.6742308,
+    "ast_hash": "9f94019fd822aa962c62b3e296367f14",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/coding-best-practices/code-organization.md": {
+    "mtime": 1779641223.6736808,
+    "ast_hash": "3cd05b0dd178d62537b13f0dd40de544",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/coding-best-practices/skill.md": {
+    "mtime": 1779641223.674738,
+    "ast_hash": "461736f89c2604cdd7fe6e4bdfd5bff1",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/coding-best-practices/architecture-principles.md": {
+    "mtime": 1779641223.6740274,
+    "ast_hash": "7c3175ca1355a2a24b1dee8b3fbce956",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/coding-best-practices/modern-concurrency.md": {
+    "mtime": 1779641223.6741374,
+    "ast_hash": "11c36de63e2d1cb21d803dbf3857795c",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/architecture-patterns/solid-detailed.md": {
+    "mtime": 1779641223.6738834,
+    "ast_hash": "a77d87caba797e99d31b84be9138a54d",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/architecture-patterns/design-patterns.md": {
+    "mtime": 1779641223.6759977,
+    "ast_hash": "b430fadec3b9ca4ec9f75b796fafe0b1",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/architecture-patterns/skill.md": {
+    "mtime": 1779641223.6738744,
+    "ast_hash": "56f89134beb98cef5d3aa46d12c495bb",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/architecture-patterns/modular-design.md": {
+    "mtime": 1779641223.6744046,
+    "ast_hash": "3c9a04b7f2d6f420b6344d19fc2fe366",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-tahoe-apis/xcode16.md": {
+    "mtime": 1779641223.676973,
+    "ast_hash": "3ca5f463dd67d5743f60b9aa96eeb9c0",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-tahoe-apis/continuity.md": {
+    "mtime": 1779641223.676976,
+    "ast_hash": "c7cc9dc1801e7667b52781f467beafd4",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-tahoe-apis/mlx-framework.md": {
+    "mtime": 1779641223.6767845,
+    "ast_hash": "919b30a7f1359b9d62f412682253de03",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-tahoe-apis/skill.md": {
+    "mtime": 1779641223.6766033,
+    "ast_hash": "31c6264dc6e35dcfaea6adb9f1b2ddbf",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-tahoe-apis/tahoe-features.md": {
+    "mtime": 1779641223.676979,
+    "ast_hash": "0bbdac30d6eb5d85dd54eb576d37f260",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-tahoe-apis/apple-intelligence.md": {
+    "mtime": 1779641223.6765938,
+    "ast_hash": "11f19a353cce2eaeebd1e061db7078d1",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/swiftdata-architecture/query-patterns.md": {
+    "mtime": 1779641223.6752787,
+    "ast_hash": "088b4b6a80f56b6a7d03816af578d273",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/swiftdata-architecture/performance.md": {
+    "mtime": 1779641223.6745188,
+    "ast_hash": "1c4d69361b2611436c5c287f575e140f",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/swiftdata-architecture/skill.md": {
+    "mtime": 1779641223.6761324,
+    "ast_hash": "8c8b0fe472d31025a69541d344fdfec7",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/swiftdata-architecture/schema-design.md": {
+    "mtime": 1779641223.675012,
+    "ast_hash": "73f4c47c85b926dadec9862c4791b829",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/swiftdata-architecture/repository-pattern.md": {
+    "mtime": 1779641223.6752353,
+    "ast_hash": "c70315b2284f584c8831ab580d255c28",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/app-planner/new-app-planning.md": {
+    "mtime": 1779641223.673112,
+    "ast_hash": "339f25d3da4b66f10d43f6bb710c5cae",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/app-planner/skill.md": {
+    "mtime": 1779641223.6732674,
+    "ast_hash": "01477c3fe3f93b5a31fe0c3f51b7aa01",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/app-planner/existing-app-analysis.md": {
+    "mtime": 1779641223.673101,
+    "ast_hash": "193f7398e2c975e0ef949719a0545a2e",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-capabilities/extensions.md": {
+    "mtime": 1779641223.675867,
+    "ast_hash": "ec5d41cddf2c60ee6dc0f00f3ce11073",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-capabilities/sandboxing.md": {
+    "mtime": 1779641223.674873,
+    "ast_hash": "6a31a15e5e71e47acb8eba11eded7bcf",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-capabilities/menubar.md": {
+    "mtime": 1779641223.6742802,
+    "ast_hash": "71305202fe3eeead33cd9e5630947e23",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-capabilities/skill.md": {
+    "mtime": 1779641223.6752334,
+    "ast_hash": "069ecd9a270de2d2e1cc0fb275deb8cd",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/macos-capabilities/background.md": {
+    "mtime": 1779641223.6744483,
+    "ast_hash": "e74d41bb74296a7ec1d8b9f2d846947a",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/appkit-swiftui-bridge/state-management.md": {
+    "mtime": 1779641223.6740713,
+    "ast_hash": "cb79079e1a86cb6f9de24ab8aa0a7ff4",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/appkit-swiftui-bridge/hosting-controllers.md": {
+    "mtime": 1779641223.6735935,
+    "ast_hash": "de73c75c1cad6802e81f741e7ececcf1",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/appkit-swiftui-bridge/nsviewrepresentable.md": {
+    "mtime": 1779641223.6732962,
+    "ast_hash": "c22102e3f538f982b42d8dc898de8159",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/appkit-swiftui-bridge/skill.md": {
+    "mtime": 1779641223.6735861,
+    "ast_hash": "2bda467d18374751b77fd2c5021e71bc",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/ui-review-tahoe/liquid-glass-design.md": {
+    "mtime": 1779641223.6755042,
+    "ast_hash": "aca004874907aa86f3e0c5ef86eb5e47",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/ui-review-tahoe/accessibility.md": {
+    "mtime": 1779641223.675454,
+    "ast_hash": "26d1fd91aa46e7dcd921ea2031907cfe",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/ui-review-tahoe/swiftui-macos.md": {
+    "mtime": 1779641223.6755943,
+    "ast_hash": "4e17f25a23495c196595a9b453be3471",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/ui-review-tahoe/appkit-modern.md": {
+    "mtime": 1779641223.6754029,
+    "ast_hash": "70d363b8fbba451f7ac8867678a62b3b",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/ui-review-tahoe/skill.md": {
+    "mtime": 1779641223.675864,
+    "ast_hash": "1f0b7a574ee3480181e19f3b0c5fd0e9",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-development/ui-review-tahoe/macos-tahoe-hig.md": {
+    "mtime": 1779641223.6759624,
+    "ast_hash": "cf4bb0de049b2d5eb9538124817e1f47",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-design-guidelines/SKILL.md": {
+    "mtime": 1779641179.0648544,
+    "ast_hash": "e804941a9bc2a67a5ca595bf00345271",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-design-guidelines/AGENTS.md": {
+    "mtime": 1779641179.0647893,
+    "ast_hash": "4378eef9c397b4a726cbd9bcae24089f",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.agents/skills/macos-design-guidelines/rules/_sections.md": {
+    "mtime": 1779641179.0651107,
+    "ast_hash": "66545d7aeb26a1d1e5375694784cad48",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.claude/CLAUDE.md": {
+    "mtime": 1779816841.7382545,
+    "ast_hash": "db73b0edd7ffbc61ceac177130730865",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/.claude/skills/graphify/SKILL.md": {
+    "mtime": 1779816841.7379234,
+    "ast_hash": "5ae00786ea53e4d944ab70abe11eedd1",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/sqlite-vec.h": {
+    "mtime": 1779820787.6247644,
+    "ast_hash": "56331129fcd8cc41719b134183adf075",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/sqlite-vec.c": {
+    "mtime": 1779820787.6223774,
+    "ast_hash": "d71b0888ed5c6a15b8e51997895ba2de",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/Database/AuditLogger.swift": {
+    "mtime": 1780163366.9719605,
+    "ast_hash": "9a8596153c71fc2f89e75eb8645552d6",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/Database/ChatHistoryRecord.swift": {
+    "mtime": 1780163362.2524753,
+    "ast_hash": "d484220af5db61d9bec2f730009d6f31",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/Database/DatabaseActor.swift": {
+    "mtime": 1780163372.622275,
+    "ast_hash": "17f290452fe1592f5c23b6827d8c8f0b",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/Database/DatabaseError.swift": {
+    "mtime": 1780163359.7481503,
+    "ast_hash": "4528ae2d808f9153a91530193b823ca8",
+    "semantic_hash": ""
+  },
+  "/Users/michael/Desktop/b-siri/B-Siri/B-Siri/Security/KeychainManager.swift": {
+    "mtime": 1780163374.7922149,
+    "ast_hash": "b19d8bef0aa55a28692633d25c9a293b",
+    "semantic_hash": ""
+  }
+}

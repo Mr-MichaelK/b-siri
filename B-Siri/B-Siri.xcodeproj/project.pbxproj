@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		396CA6357AC829D0B9C8ACC2 /* SQLCipher in Frameworks */ = {isa = PBXBuildFile; productRef = 1551AAC544CE05E779F5499C /* SQLCipher */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		4C2FF6BA2FC3656F00D998C0 /* B-Siri.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "B-Siri.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -23,6 +27,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				396CA6357AC829D0B9C8ACC2 /* SQLCipher in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +70,7 @@
 			);
 			name = "B-Siri";
 			packageProductDependencies = (
+				1551AAC544CE05E779F5499C /* SQLCipher */,
 			);
 			productName = "B-Siri";
 			productReference = 4C2FF6BA2FC3656F00D998C0 /* B-Siri.app */;
@@ -94,6 +100,9 @@
 			);
 			mainGroup = 4C2FF6B12FC3656F00D998C0;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				55B5A3436CB3723A5C11DA5F /* XCRemoteSwiftPackageReference "SQLCipher.swift" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 4C2FF6BB2FC3656F00D998C0 /* Products */;
 			projectDirPath = "";
@@ -170,6 +179,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
+					"SQLITE_HAS_CODEC=1",
 					"$(inherited)",
 				);
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -230,6 +240,10 @@
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"SQLITE_HAS_CODEC=1",
+					"$(inherited)",
+				);
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -250,11 +264,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "B-Siri/B-Siri.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7459J935N9;
-				ENABLE_APP_SANDBOX = YES;
+				ENABLE_APP_SANDBOX = NO;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -282,11 +297,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "B-Siri/B-Siri.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7459J935N9;
-				ENABLE_APP_SANDBOX = YES;
+				ENABLE_APP_SANDBOX = NO;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -331,6 +347,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		55B5A3436CB3723A5C11DA5F /* XCRemoteSwiftPackageReference "SQLCipher.swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/sqlcipher/SQLCipher.swift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.15.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		1551AAC544CE05E779F5499C /* SQLCipher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 55B5A3436CB3723A5C11DA5F /* XCRemoteSwiftPackageReference "SQLCipher.swift" */;
+			productName = SQLCipher;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 4C2FF6B22FC3656F00D998C0 /* Project object */;
 }
